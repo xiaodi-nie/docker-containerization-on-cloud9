@@ -1,2 +1,3 @@
 pylint
-click
+flask
+pandas
